@@ -2,6 +2,7 @@
 @media all and (max-width: 1000px) {
   .top-wrapper h1 {
     font-size: 32px;
+    text-align: center;
   }
 
   .heading h2 {
